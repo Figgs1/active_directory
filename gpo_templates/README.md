@@ -1,7 +1,7 @@
 # AD GPO Templates supporting Information Security Programs
 
 * Identity GPO
-* User account complexity
+    * User account complexity
 * Pass the Hash GPO
 * USB Device Control GPO
 * Malware Defense GPO
