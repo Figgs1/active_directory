@@ -1,6 +1,6 @@
 # AD GPO Templates Providing Ransomware Protection
 
-We all can agree that ransomware sucks.  With that said, there are things that you can and should be doing to harden your Windows clients and servers, which can reduce the ability of ransomware from affecting you.  Props to @thirdtier for initially creating these GPO's and continuing to expand their research and inexpensive resources.
+We all can agree that ransomware sucks.  With that said, there are things that you can and should be doing to harden your Windows clients and servers, which can minimize your organization's attack surface to ransomware attacks.  Props to @thirdtier for initially creating these GPO's and continuing to expand their research and inexpensive resources.
 
 
 ## Ransomware GPO's provide the following benefits:
